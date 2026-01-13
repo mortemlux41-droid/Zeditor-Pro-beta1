@@ -1,0 +1,10 @@
+{
+    "appId": "com.neoai.zeditorpro",
+    "appName": "ZEditor PRO",
+    "webDir": "dist",
+    "bundledWebRuntime": false,
+    "server": {
+        "cleartext": true,
+        "androidScheme": "https"
+    }
+}

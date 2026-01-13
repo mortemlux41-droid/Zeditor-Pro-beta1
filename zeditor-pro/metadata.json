@@ -1,0 +1,8 @@
+
+{
+  "name": "ZEditor PRO",
+  "description": "A professional image editor inspired by OneUI 8.5 with advanced Galaxy AI integration for generative edits, filters, and professional adjustments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
